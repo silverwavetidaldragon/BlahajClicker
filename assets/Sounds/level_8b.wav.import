@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/level_8b.wav-8e0049a2b695592ecae530c4b7a272ae.sample"
+
+[deps]
+
+source_file="res://assets/Sounds/level_8b.wav"
+dest_files=[ "res://.import/level_8b.wav-8e0049a2b695592ecae530c4b7a272ae.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
